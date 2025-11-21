@@ -1,5 +1,3 @@
-## About
-
 Hi, I'm **Brian** — the human behind **OneTabDeploy (OTD)**.
 
 I work in the public sector as a **municipal building case officer** in Denmark, and I build automation tools that remove friction in regulated, real-world workflows. My toolbox is AHK v2, Office VBA and a healthy dose of WinAPI pragmatism.
