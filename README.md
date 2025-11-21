@@ -1,5 +1,3 @@
-# ✨OneTapDeploy✨
-
 ## About
 
 Hi, I'm **Brian** — the human behind **OneTabDeploy (OTD)**.
