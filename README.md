@@ -1,7 +1,5 @@
 # ✨OneTapDeploy✨
 
-**`Fewer clicks. More done`**
-
 ## About
 
 Hi, I'm **Brian** — the human behind **OneTabDeploy (OTD)**.
