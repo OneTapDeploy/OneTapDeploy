@@ -5,9 +5,14 @@
 I build automation tools (AHK v2, Office VBA) and dev utilities that make work faster and cleaner.
 All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
+## What I do
+- **Windows automation:** AHK v2 classes, GUI patterns, robust hooks
+- **Office workflows:** Word/Excel/Outlook macros with error handling
+- **Dev utilities:** Small tools that reduce friction in daily coding and programs
+
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools I use
 
 <img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="AutoHotKey V2" width="30px" style="padding-right:10px;" src=https://store-images.s-microsoft.com/image/apps.6785.14308665483973753.abd12bec-94a0-435a-8058-4c7f82a16c2b.4db272c5-dc36-4c22-9e47-27ccc4e79d0c />
@@ -31,6 +36,10 @@ All coding projects are built from the ground up, from planning and designing al
 
 #
 
+## Principles
+1. **Clarity over cleverness**  
+2. **Small, composable tools**  
+3. **Docs + examples first**
 
 #
 <!--
