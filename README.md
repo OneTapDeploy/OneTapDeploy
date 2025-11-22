@@ -24,14 +24,19 @@ I’ve spent years developing tools to speed up case handling, document flows, a
 ---
 
 ### 🧰 Languages and Tools I use
-
+<a href="https://developer.android.com/studio" title="Android Studio — website">
+     <img align="left" 
+          alt="Android Studio" 
+          title="Android Studio"
+          width="30px" 
+          style="padding-right:10px;" 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+</a>
 <img align="left" 
-     alt="Android Studio" 
-     title="Android Studio"
+     alt="AutoHotKey V2" 
      width="30px" 
      style="padding-right:10px;" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
-<img align="left" alt="AutoHotKey V2" width="30px" style="padding-right:10px;" src=https://store-images.s-microsoft.com/image/apps.6785.14308665483973753.abd12bec-94a0-435a-8058-4c7f82a16c2b.4db272c5-dc36-4c22-9e47-27ccc4e79d0c />
+     src=https://store-images.s-microsoft.com/image/apps.6785.14308665483973753.abd12bec-94a0-435a-8058-4c7f82a16c2b.4db272c5-dc36-4c22-9e47-27ccc4e79d0c />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
